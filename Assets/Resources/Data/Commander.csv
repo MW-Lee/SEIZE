@@ -1,0 +1,4 @@
+name,type,rate,class,hp,ad,ap,skill1,skill2,skill3,info
+Aron,Knight,Silver,Assassin,10000,150,2,0,1,2,Information_Aron
+Lina,?,?,?,?,?,?,3,4,5,Information_Lina
+Empty,Empty,Empty,Empty,0,0,0,-1,-1,-1,Empty

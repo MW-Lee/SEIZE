@@ -1,0 +1,4 @@
+sceneSetups:
+- path: "D:/\uAD6C\uAE00\uB4DC\uB77C\uC774\uBE0C/SEIZE/project_files/smaple/Rise_game/Assets/Scenes/Main.unity"
+  isLoaded: 1
+  isActive: 1
